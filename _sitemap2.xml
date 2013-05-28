@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>http://www.zipillow.com/</loc>
+      <lastmod>2012-11-20</lastmod>
+      <changefreq>daily</changefreq>
+   </url>
+   
+	<url>
+      <loc>http://www.zipillow.com/shop.html</loc>
+      <lastmod>2012-11-18</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>http://www.zipillow.com/gallery.html</loc>
+      <lastmod>2012-11-18</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+   <url>
+      <loc>http://www.zipillow.com/positions.html</loc>
+      <lastmod>2012-11-18</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+   
+   <url>
+      <loc>http://www.zipillow.com/about.html</loc>
+      <lastmod>2012-11-18</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>http://www.zipillow.com/contact.html</loc>
+      <lastmod>2012-11-18</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+</urlset> 
